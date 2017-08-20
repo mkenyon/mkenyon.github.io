@@ -85,7 +85,12 @@ That would put it three to four months out. Wish me luck.
 --
 
 <sup id="fn1" class="footnote">1. 
-There were other mistakes made by the fellow, but I'll leave those for another time.
+There were other mistakes made by the fellow, 
+but I'll leave those for another time.
+I'm totally okay with people making mistakes. 
+I'm bothered by the kind of mistakes
+and the fact that the fellow had difficulty learning
+when the surgeon brought her in.
 <a href="#ref1">&#x21A9;</a>
 </sup>
 
