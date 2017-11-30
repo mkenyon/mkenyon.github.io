@@ -1,6 +1,6 @@
 ---
 layout: post
-title: LASEK Update: 20/20, Lots of Tears
+title: "LASEK Update: 20/20, Lots of Tears"
 tags:
   - lasek
 ---
