@@ -4,6 +4,20 @@ title: "LASEK Update: 20/20, Lots of Tears"
 tags:
   - lasek
 ---
+<style>
+  .post-content a:link {
+    text-decoration: underline;
+  }
+  .post-content a:visited {
+    text-decoration: underline;
+  }
+  .post-content a:hover {
+    text-decoration: none;
+  }
+  .post-content a:active {
+    text-decoration: none;
+  }
+</style>
 
 Good news: My vision continues to improve. Each eye reads at 20/25. With both eyes, I have 20/20 vision. Since my last check-up one month ago, I feel like my astigmatism has markedly improved. Let’s say by 40% or so. So what changed? One month ago, the LASEK surgeon decided that I should double down on increasing tear production.
 

@@ -9,6 +9,20 @@ tags:
   - production
   - "software development"
 ---
+<style>
+  .post-content a:link {
+    text-decoration: underline;
+  }
+  .post-content a:visited {
+    text-decoration: underline;
+  }
+  .post-content a:hover {
+    text-decoration: none;
+  }
+  .post-content a:active {
+    text-decoration: none;
+  }
+</style>
 
 Most projects I've been on at Pivotal Labs have similar branching
 and production deploy strategies.
@@ -24,9 +38,9 @@ Hot-fixes go into production
 and then get merged into feature development. It's regimented and well-understood.
 Lots of existing writing makes it easy to introduce to new team members.
 But it can be a pain to manage all off these branches.
-Teams usually add in [git-flow aliases][] to help them.
+Teams usually add in [git-flow aliases][aliases] to help them.
 And there's a lot of ceremony around deploying something to production,
-something I want each [developer pair][] to do (roughly) daily.
+something I want each [developer pair][pairing] to do (roughly) daily.
 
 Or, dispensing with that ceremony,
 teams will just say,
@@ -96,3 +110,5 @@ I'd like to bring it to my future teams.
 [git-flow]: http://nvie.com/posts/a-successful-git-branching-model/
 [tdd]: http://engineering.pivotal.io/categories/tdd/
 [thinly-sliced]: https://www.pivotaltracker.com/blog/choosing-best-slice-for-your-story/
+[aliases]: https://github.com/nvie/gitflow
+[pairing]: https://builttoadapt.io/a-recipe-for-successful-pair-programming-b5eec6611e7

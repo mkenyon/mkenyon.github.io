@@ -4,6 +4,21 @@ title: LASEK Day + 4
 tags:
   - lasek
 ---
+<style>
+  .post-content a:link {
+    text-decoration: underline;
+  }
+  .post-content a:visited {
+    text-decoration: underline;
+  }
+  .post-content a:hover {
+    text-decoration: none;
+  }
+  .post-content a:active {
+    text-decoration: none;
+  }
+</style>
+
 4th day post laser eye surgery. I tried to put on my glasses again this morning
 
 It "feels" like my eyes are 20/50. There's no prescription left to correct, but with the way the epithelium (skin) of the eyes is healing, the world is still blurry. I thought that I would have recovered more than I have right now.

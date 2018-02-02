@@ -8,6 +8,20 @@ tags:
   - es6
   - proptypes
 ---
+<style>
+  .post-content a:link {
+    text-decoration: underline;
+  }
+  .post-content a:visited {
+    text-decoration: underline;
+  }
+  .post-content a:hover {
+    text-decoration: none;
+  }
+  .post-content a:active {
+    text-decoration: none;
+  }
+</style>
 
 I discovered recently that
 the manner in which I have used React's PropTypes
@@ -146,7 +160,7 @@ MapCreator.propTypes = {
 ```
 
 By focusing on how my pins are going to be used,
-rather than on their class names, 
+rather than on their class names,
 I've made `MapCreator` more resilient to change.
 
 I've programmed towards interface when writing server-side code,
