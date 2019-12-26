@@ -24,6 +24,7 @@ url: "http://blog.mikekenyon.ca" # the base hostname & protocol for your site, e
 twitter_username: MrMichaelAbon
 github_username:  michaelabon
 author: "Michael Abon (Mike Kenyon)"
+timezone: "America/Vancouver"
 
 # Build settings
 markdown: kramdown
