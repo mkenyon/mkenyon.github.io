@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: The Grand Kenyon
+title: Notes from Michael Abon
 email: mike.kenyon@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Largely just notes to future me.
@@ -21,9 +21,9 @@ description: > # this means to ignore newlines until "baseurl:"
   Hit me up on Twitter if you want to talk about any of these.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://blog.mikekenyon.ca" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: mike_kenyon
-github_username:  mkenyon
-author: "Mike Kenyon"
+twitter_username: MrMichaelAbon
+github_username:  michaelabon
+author: "Michael Abon (Mike Kenyon)"
 
 # Build settings
 markdown: kramdown
