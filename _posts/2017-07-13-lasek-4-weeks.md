@@ -24,7 +24,7 @@ I still have some combination of triple vision and frosted glass
 when I'm looking at computer monitor distance. I dont see crisp edges.
 But It's 20/40 vision, compared to my original 20/500.
 
-![My drawing of the blurriness / double-vision in each eye]({{ site.baseurl }}/assets/img/2017-07-13-blurriness.jpg)
+![My drawing of the blurriness / double-vision in each eye](/assets/img/2017-07-13-blurriness.jpg)
 
 So, the fellow wants me to come in again&mdash;next week&mdash;when the surgeon is back from vacation.
 I think they want to talk about a correction surgery.
