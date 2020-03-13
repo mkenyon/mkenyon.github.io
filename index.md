@@ -5,9 +5,6 @@
 layout: home
 ---
 
-Hello!
-======
-
 I'm a professional problem solver.
 Sometimes I solve software engineering problems.
 Sometimes I solve people problems.
