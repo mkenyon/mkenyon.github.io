@@ -2,7 +2,12 @@
 layout: post
 title:  "Why use RubyMine instead of Visual Studio Code"
 date:   2020-02-10 13:14:02 -0500
-categories: ruby rubymine vscode code ide
+tags:
+  - ruby
+  - rubymine
+  - vscode
+  - code
+  - ide
 ---
 
 My current job allows people to largely pick their own IDE 
