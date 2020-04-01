@@ -21,7 +21,7 @@ Major mods
 These are game-changing and I can’t live without them.
 Read the README, for sure, because they contain a lot.
 
-[Traffic Manager: President Edition](https://steamcommunity.com/sharedfiles/filedetails/?id=583429740)
+[Traffic Manager: President Edition (V11 Stable)](https://steamcommunity.com/sharedfiles/filedetails/?id=1637663252)
 ------------------------------------
 
 
@@ -161,3 +161,8 @@ hen you notice them, but this extension just automatically bulldozes them for yo
 Screenshot of the "Extra Landscaping Tools" mod
 with a paintbrush icon covering a hundred trees on the ground
 ](/assets/img/2019-12-26-cities-skylines/tree-brush.png)
+
+Edits
+=====
+
+* 2020-04-01: Swapping out the old TM:PE for TM:PE v11. Make sure you follow the uninstallation instructions before upgrading.
